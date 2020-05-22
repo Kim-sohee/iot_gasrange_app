@@ -22,4 +22,11 @@
 6. 화재감지센서를 통한 화재경고 알림
 
 
-### 앱 UI
+### APP UI Design
+> * 최종 앱 디자인
+![ui1](https://user-images.githubusercontent.com/53697280/82683716-7164b000-9c8c-11ea-8d6d-dc44e92101b9.png)
+![ui2](https://user-images.githubusercontent.com/53697280/82683718-7295dd00-9c8c-11ea-8b7d-5f968de2c8e8.png)
+
+
+> * 이전 UI 디자인 변경사항
+![ui3](https://user-images.githubusercontent.com/53697280/82683719-732e7380-9c8c-11ea-9b62-d0a3c451c4ac.png)
