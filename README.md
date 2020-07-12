@@ -3,7 +3,7 @@
 #### 1학기 프로젝트로 처음 제작한 앱입니다.
 
 * 사용 언어: JAVA
-* 개발 플랫폼: 
+* 개발 플랫폼: Android Studio
 * Android 6.0 Marshmallow 사용
 
 
